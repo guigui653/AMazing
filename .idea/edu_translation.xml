@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="TranslationProjectSettings">
+    <option name="currentTranslationLanguage" value="Portuguese (Brazil)" />
+    <option name="structureTranslation">
+      <map>
+        <entry key="Portuguese (Brazil)">
+          <value>
+            <map>
+              <entry key="1013043244" value="Obter Célula na Posição  " />
+              <entry key="1263614973" value="Introdução  " />
+              <entry key="1341982478" value="Labirinto  " />
+              <entry key="1902137836" value="Tem Todas as Paredes  " />
+              <entry key="1944272766" value="Introdução  " />
+              <entry key="2119177658" value="Navegando ao Redor  " />
+              <entry key="355662944" value="Encontrar Vizinho  " />
+              <entry key="376579604" value="Criar uma Célula  " />
+              <entry key="389408766" value="Visualização do Curso  " />
+              <entry key="454199409" value="Pares de Paredes  " />
+              <entry key="456117109" value="Editor  " />
+              <entry key="475484033" value="Derrubar Parede  " />
+              <entry key="844123327" value="Fazer o Labirinto" />
+              <entry key="8522345" value="Construindo o Labirinto" />
+              <entry key="866912951" value="Adicionar Paredes à Célula  " />
+              <entry key="868189905" value="Posições dos Vizinhos  " />
+              <entry key="894567720" value="Descrição da Tarefa  " />
+            </map>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="translationVersions">
+      <map>
+        <entry key="Portuguese (Brazil)" value="155" />
+      </map>
+    </option>
+  </component>
+</project>

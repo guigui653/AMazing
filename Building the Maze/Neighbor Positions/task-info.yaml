@@ -1,0 +1,34 @@
+type: edu
+files:
+  - name: maze.py
+    visible: true
+    placeholders:
+      - offset: 121
+        length: 42
+        placeholder_text: "'add deltas for': 'the W and E directions'"
+        initial_state:
+          length: 42
+          offset: 121
+        initialized_from_dependency: false
+        encrypted_possible_answer: MtiG92bpsryAP0BXjjzwIzZrOGIh3JT3xWrW+kRgn14OwvX9kDFkYtSBKzsWzB0C
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: __init__.py
+    visible: false
+    learner_created: false
+  - name: cell.py
+    visible: true
+    learner_created: false
+  - name: tests/test_task.py
+    visible: false
+    learner_created: false
+  - name: tests/__init__.py
+    visible: false
+    learner_created: false
+  - name: output.py
+    visible: true
+    learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSeb6sbUHqOObkQgtVVBjNHSFa2TwpeEb8_P7nIXwgTxnvknQg/viewform?usp=pp_url&entry.2103429047=Building+the+Maze+/+Neighbor+Positions
+status: Unchecked
+record: -1

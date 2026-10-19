@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="TermsProjectSettings">
+    <currentTermsLanguage>en</currentTermsLanguage>
+    <terms>
+      <map>
+        <entry key="en">
+          <value>
+            <map>
+              <entry key="355662944">
+                <value>
+                  <list>
+                    <Term value="offsets" definition="The difference in position between two elements, often used to find neighboring cells in grids." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="376579604">
+                <value>
+                  <list>
+                    <Term value="instance variables" definition="Variables that belong to an instance of a class, storing data unique to that instance." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="389408766">
+                <value>
+                  <list>
+                    <Term value="syllabus" definition="An outline or summary of topics to be covered in a course or training program." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="454199409">
+                <value>
+                  <list>
+                    <Term value="class attribute" definition="A variable shared by all instances of a class, defined within the class body." />
+                    <Term value="instances" definition="Objects created from a class, each with unique data but sharing the class's methods." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="456117109">
+                <value>
+                  <list>
+                    <Term value="context menu" definition="A menu that appears upon user interaction, offering relevant actions for the selected item or area." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="475484033">
+                <value>
+                  <list>
+                    <Term value="method" definition="A function defined inside a class, operating on instances of that class." />
+                    <Term value="class" definition="A blueprint for creating objects, encapsulating data and behavior together." />
+                    <Term value="dictionary" definition="A collection of key-value pairs, allowing fast lookup of values by keys." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="844123327">
+                <value>
+                  <list>
+                    <Term value="stack" definition="A data structure that stores items in a last-in, first-out (LIFO) order." />
+                    <Term value="pop" definition="A method that removes and returns the last item from a list or stack." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="866912951">
+                <value>
+                  <list>
+                    <Term value="boolean" definition="A data type with only two possible values: True or False." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="868189905">
+                <value>
+                  <list>
+                    <Term value="class variable" definition="A variable shared by all instances of a class, defined within the class but outside methods." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="894567720">
+                <value>
+                  <list>
+                    <Term value="diff" definition="A comparison showing the differences between two versions of code or text files." />
+                    <Term value="IDE" definition="Integrated Development Environment; software for writing, running, and debugging code efficiently." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1013043244">
+                <value>
+                  <list>
+                    <Term value="method" definition="A function defined inside a class, called on objects of that class." />
+                    <Term value="class" definition="A blueprint for creating objects, defining their attributes and behaviors." />
+                    <Term value="objects" definition="An instance of a class containing data and methods." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1341982478">
+                <value>
+                  <list>
+                    <Term value="module" definition="A file containing Python code, such as functions and classes, to be imported and used elsewhere." />
+                    <Term value="class" definition="A blueprint for creating objects, defining their properties and behaviors in object-oriented programming." />
+                    <Term value="method" definition="A function defined within a class and called on its instances." />
+                    <Term value="object" definition="An instance of a class containing data and behavior defined by the class." />
+                    <Term value="tuple" definition="An immutable, ordered collection of items, written as values separated by commas inside parentheses." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1902137836">
+                <value>
+                  <list>
+                    <Term value="dictionary" definition="A collection of key-value pairs, allowing fast lookup of values by keys in Python." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1944272766">
+                <value>
+                  <list>
+                    <Term value="backtracking" definition="A technique for solving problems by exploring possible options and undoing choices when a dead end is reached." />
+                    <Term value="node" definition="A fundamental part of data structures like trees and graphs, representing a single element or point." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="2119177658">
+                <value>
+                  <list>
+                    <Term value="IDE" definition="Integrated Development Environment; software for writing, testing, and debugging code in one application." />
+                  </list>
+                </value>
+              </entry>
+            </map>
+          </value>
+        </entry>
+      </map>
+    </terms>
+    <termsVersions>
+      <map>
+        <entry key="en" value="83" />
+      </map>
+    </termsVersions>
+  </component>
+</project>

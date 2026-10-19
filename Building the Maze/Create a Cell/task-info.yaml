@@ -1,0 +1,44 @@
+type: edu
+files:
+  - name: cell.py
+    visible: true
+    placeholders:
+      - offset: 0
+        length: 80
+        placeholder_text: '''Assign cell position'''
+        initial_state:
+          length: 22
+          offset: 68
+        initialized_from_dependency: false
+        encrypted_possible_answer: 9qbiUC7hMANfJ6iFnRSUJw==
+        selected: false
+        status: Solved
+        student_answer: |-
+          class Cell:
+          
+              def __init__(self, x, y):
+                  self.x = x
+                  self.y = y
+    learner_created: false
+  - name: tests/test_task.py
+    visible: false
+    learner_created: false
+  - name: __init__.py
+    visible: false
+    learner_created: false
+  - name: tests/__init__.py
+    visible: false
+    learner_created: false
+  - name: output.py
+    visible: true
+    learner_created: false
+  - name: maze_grid.png
+    visible: false
+    is_binary: true
+    learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSeb6sbUHqOObkQgtVVBjNHSFa2TwpeEb8_P7nIXwgTxnvknQg/viewform?usp=pp_url&entry.2103429047=Building+the+Maze+/+Create+a+Cell
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Mon, 19 Oct 2026 15:37:01 UTC"
+record: 2

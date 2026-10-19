@@ -1,0 +1,44 @@
+type: edu
+files:
+  - name: maze.py
+    visible: true
+    placeholders:
+      - offset: 540
+        length: 6
+        placeholder_text: "# TODO"
+        initial_state:
+          length: 6
+          offset: 540
+        initialized_from_dependency: false
+        encrypted_possible_answer: UTjjvdDVtxLRXSEDZXKutuOe2CIYffoAxPUyfkphFcE=
+        selected: false
+        status: Unchecked
+      - offset: 639
+        length: 6
+        placeholder_text: "# TODO"
+        initial_state:
+          length: 6
+          offset: 639
+        initialized_from_dependency: false
+        encrypted_possible_answer: CN+k/wKMIwXhUgSjlPSi0gGqubYJ3S9DO/S2sDdF+IZvbL7nzzeCj/PmUSy1e1+Xlrs2c7SJwUuwQtFlxlKZXKH1XMbOu3Bec+Nf11dlTTIayQWuILgLcvxy9WMq9NDJOzBw4q0g+AYISGjfcyfZMvTJzFahli/V8LV5zVFG7Mx0Pxuwnjx1yje6O6zK0DiPXp2q8H3pzKcWk6T/durUHg==
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: __init__.py
+    visible: false
+    learner_created: false
+  - name: cell.py
+    visible: true
+    learner_created: false
+  - name: tests/test_task.py
+    visible: false
+    learner_created: false
+  - name: tests/__init__.py
+    visible: false
+    learner_created: false
+  - name: output.py
+    visible: true
+    learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSeb6sbUHqOObkQgtVVBjNHSFa2TwpeEb8_P7nIXwgTxnvknQg/viewform?usp=pp_url&entry.2103429047=Building+the+Maze+/+Find+Neighbor
+status: Unchecked
+record: -1

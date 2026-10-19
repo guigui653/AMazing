@@ -1,0 +1,34 @@
+type: edu
+files:
+  - name: maze.py
+    visible: true
+    placeholders:
+      - offset: 255
+        length: 7
+        placeholder_text: " # TODO"
+        initial_state:
+          length: 7
+          offset: 255
+        initialized_from_dependency: false
+        encrypted_possible_answer: 3eX1Y0OGOH2EuApBnpgEJ4bVkVbW6n1aKyL6GzKzgBE=
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: __init__.py
+    visible: false
+    learner_created: false
+  - name: cell.py
+    visible: true
+    learner_created: false
+  - name: tests/test_task.py
+    visible: false
+    learner_created: false
+  - name: tests/__init__.py
+    visible: false
+    learner_created: false
+  - name: output.py
+    visible: true
+    learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSeb6sbUHqOObkQgtVVBjNHSFa2TwpeEb8_P7nIXwgTxnvknQg/viewform?usp=pp_url&entry.2103429047=Building+the+Maze+/+Get+Cell+at+Position
+status: Unchecked
+record: -1

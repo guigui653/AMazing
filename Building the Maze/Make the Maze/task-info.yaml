@@ -1,0 +1,48 @@
+type: edu
+files:
+  - name: maze.py
+    visible: true
+    placeholders:
+      - offset: 1301
+        length: 66
+        placeholder_text: "# TODO: we reached a dead end => get next cell from the cell\
+      \ stack"
+        initial_state:
+          length: 66
+          offset: 1301
+        initialized_from_dependency: false
+        encrypted_possible_answer: 85rX76NZ9H54HYBjgBmZTYFaPm8sKGIh+ipUFyeDrtx1gkwSy7KaY/84eZ3D8m4SHqpFXH8kBDEdDYJ0aiE1OQ==
+        selected: false
+        status: Unchecked
+      - offset: 1380
+        length: 56
+        placeholder_text: "# TODO: choose a random neighbouring cell and move to it"
+        initial_state:
+          length: 56
+          offset: 1380
+        initialized_from_dependency: false
+        encrypted_possible_answer: kRAESSLt4LbiQfhtDKcRzlzFAOc//hBBfqWpW1EyEaSPbgZYkAk7ZCECbDBoFSYmKMhR1raKJl1YDLmB7xPP6VDa/DqDGL1HfZxxdtlltD19M0I3S0hVW3PPX9t5MGPGU1t8zfY/omPSxFW+r57mIiAYaY3bJkxEVWIuRdzQeZ2Daua6H7YPfWZjvcopmUpqEu7KiVIgfXP+/kGBPP4SLt2TwJEdCE59z1BAdvIacGEXYSzAqafNNV/89Efk1Y0+DCvOcnUA25q4/0ZCelO6qA==
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: __init__.py
+    visible: false
+    learner_created: false
+  - name: cell.py
+    visible: true
+    learner_created: false
+  - name: execute.svg
+    visible: false
+    learner_created: false
+  - name: tests/__init__.py
+    visible: false
+    learner_created: false
+  - name: tests/test_task.py
+    visible: false
+    learner_created: false
+  - name: output.py
+    visible: true
+    learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSeb6sbUHqOObkQgtVVBjNHSFa2TwpeEb8_P7nIXwgTxnvknQg/viewform?usp=pp_url&entry.2103429047=Building+the+Maze+/+Make+the+Maze
+status: Unchecked
+record: -1

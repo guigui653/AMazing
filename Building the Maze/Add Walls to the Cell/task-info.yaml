@@ -1,0 +1,40 @@
+type: edu
+files:
+  - name: cell.py
+    visible: true
+    placeholders:
+      - offset: 0
+        length: 138
+        placeholder_text: "'add 2 more': 'walls'"
+        initial_state:
+          length: 21
+          offset: 117
+        initialized_from_dependency: false
+        encrypted_possible_answer: WLZKE0W+n23RxIdAG0lbBeoFQw4Sz5k6bTpV6mbm1nk=
+        selected: false
+        status: Solved
+        student_answer: |-
+          class Cell:
+          
+              def __init__(self, x, y):
+                  self.x, self.y = x, y
+                  self.walls = {'N': True, 'S': True, 'E': True, 'W': True}
+    learner_created: false
+  - name: __init__.py
+    visible: false
+    learner_created: false
+  - name: tests/test_task.py
+    visible: false
+    learner_created: false
+  - name: tests/__init__.py
+    visible: false
+    learner_created: false
+  - name: output.py
+    visible: true
+    learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSeb6sbUHqOObkQgtVVBjNHSFa2TwpeEb8_P7nIXwgTxnvknQg/viewform?usp=pp_url&entry.2103429047=Building+the+Maze+/+Add+Walls+to+the+Cell
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Mon, 19 Oct 2026 15:37:46 UTC"
+record: 3
